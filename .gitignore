@@ -1,0 +1,7 @@
+# Backend
+Backend/venv/
+Backend/__pycache__/
+Backend/app/__pycache__/
+Backend/.env
+Backend/chroma_db/
+Backend/mastery.db
